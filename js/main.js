@@ -5,7 +5,7 @@ Copy prohibited
 未经许可禁止擅自盗用,修改及仿制
 https://www.mroe.org
 ----------------------------------*/
-var api = "https://www.mroe.org/";
+var api = "https://www.moe.fan/";
 
 $(document).ready(function () {
     $(".loading").hide();
